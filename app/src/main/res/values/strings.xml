@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">CizoBlood</string>
+
+    <array name="blood_groups">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+    </array>
+
+    <array name="states">
+        <item>Saida</item>
+        <item>Beirut</item>
+        <item>Chouf</item>
+        <item>Tripoli</item>
+        <item>Batroun</item>
+
+    </array>
+
+
+    <array name="Districts_Andhra_Pradesh">
+        <item>Mount Lebanon</item>
+        <item>Zahle</item>
+        <item>Coast</item>
+        <item>Mountain</item>
+        <item></item>
+    </array>
+
+    <array name="Districs_Arunachal_Pradesh">
+        <item>Saida</item>
+        <item>Beirut</item>
+        <item>Chouf</item>
+        <item>Tripoli</item>
+        <item>Batroun</item>
+    </array>
+
+    <array name="Districts_Maharashtra">
+        <item>Saida</item>
+        <item>Beirut</item>
+        <item>Chouf</item>
+        <item>Tripoli</item>
+        <item>Batroun</item>
+    </array>
+
+</resources>
+
+
